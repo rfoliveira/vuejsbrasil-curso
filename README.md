@@ -1,1 +1,3 @@
-"# Curso de VueJS 3 completo pelo vuejsbrasil" 
+# Curso de VueJS 3 completo
+
+Igor Halfeld - VueJS Brasil
